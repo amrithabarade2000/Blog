@@ -1,6 +1,6 @@
 PinkFeatherBlog is a blog-publishing site that allows private or multi-user(superusers) blogs with time-stamped entries.
 
-The following technologies were used in this project:
+PinkFeatherBlog was built using the following:
 
 Programming Languages:
 •	HTML
